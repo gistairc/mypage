@@ -21,6 +21,7 @@ Landsat 8の説明 リンクはっとけばいいのでは？
 
 
 
+[Landbrowser](http://landbrowser.geogrid.org/landbrowser/index.html)
 
 
 This patch images are classified as “positives” if the solar panels coverwith more than 20% of the total areas, while patches with no solar panels are considered “negatives”. It should be noted that patches whose coverage lies between 0% and 20%were neither “positives” and “negatives”.)  and smaller (<5MW) and newer (after 2015) solar power plants are not included in this datase.  
